@@ -2,8 +2,10 @@
 using namespace std;
 
 int main() {
+	string s;
+	cin >> s;
 	int n;
 	cin >> n;
-	cout << n;
+	cout << n << s;
 	return 0;
 }
